@@ -13,3 +13,5 @@ def test_function(a, b):
     for i in range(a):
         if b and (a < 200):
             print(i * b)
+
+test_function(10,20)
